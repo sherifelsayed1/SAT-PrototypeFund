@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains two Jupyter notebooks demonstrating an end-to-end workflow for processing satellite images and training a machine learning model for crop segmentation. The workflow simplifies handling satellite data, allowing users to focus more on machine learning rather than complex data preprocessing.
+The labels used for crops were downloaded from TUM Euro crops, a german dataset free to use and can be downloaded on a larger scale from https://github.com/maja601/EuroCrops
 
 ## Notebooks
 
