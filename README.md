@@ -7,6 +7,7 @@ The labels used for crops were downloaded from TUM Euro crops, a german dataset 
 Ontop, we provide in the project a free platform that can be used by farmers to analyze their lands and check crop progress. That help farmers to rely on informed decison making in order to save resources like water and fertlizer: https://randomagri.users.earthengine.app/view/sat
 
 Please see the attached video that shows how to use the platform in analyzing farms 
+https://drive.google.com/file/d/169pWL_5dvvIMQo0FUFE_eBMibLp4aMb7/view?usp=sharing
 
 
 ## Notebooks
@@ -29,7 +30,7 @@ This notebook trains a UNET-based deep learning model for segmenting corn fields
 - **Building UNET Model**: Defines and compiles a UNET architecture for semantic segmentation.
 - **Training**: Trains the model using the prepared dataset.
 - **Evaluation**: Tests the model’s performance on unseen data.
-- **Visualization**: Displays segmentation results for validation.
+- **Visualization**: Displays prediction segmentation results for validation.
 
 ## Purpose
 This project provides a streamlined pipeline for processing satellite images and creating labeled training datasets, making it easier to develop machine learning models for agricultural applications. By handling all major preprocessing steps, it reduces the struggle with data preparation, enabling users to focus on model training and optimization.
