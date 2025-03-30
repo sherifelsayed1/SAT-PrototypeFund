@@ -1,4 +1,4 @@
-# Satellite Data Processing and UNET Model for Corn Segmentation
+# Satellite Data Gathering, Processing and training dataset creation for machine learning purposes 
 
 ## Overview
 This repository contains two Jupyter notebooks demonstrating an end-to-end workflow for processing satellite images and training a machine learning model for crop segmentation. The workflow simplifies handling satellite data, allowing users to focus more on machine learning rather than complex data preprocessing.
