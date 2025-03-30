@@ -43,10 +43,11 @@ To run the notebooks, you will need:
 - TensorFlow/Keras
 - NumPy, Pandas, Matplotlib
 - OpenCV, Rasterio, Geopandas (for image processing)
+- Google account required (for importing and exporting data via Google Drive)
 
 ## Usage
-1. Run `Data_Gathering_Processing.ipynb` to download, preprocess, and save `.npy` training data.
-2. Run `Build_Model.ipynb` to train a UNET model on the prepared dataset.
+1. Run `Data_Gathering_Processing.ipynb` to download, preprocess, and save `.npy` training data to your google drive.
+2. Run `Build_Model.ipynb` to import training data from google drive and train a UNET model on the prepared dataset.
 3. Evaluate and refine the model as needed.
 
 
