@@ -54,3 +54,5 @@ To run the notebooks, you will need:
 ## Acknowledgments
 Thanks to Google Earth Engine and Sentinel satellite programs for providing free access to satellite imagery.
 
+ Zusätzlich zu Nr. 5.2.2 NKBF 2017 ist bei Veröffentlichungen und Maßnahmen der Öffentlichkeitsarbeit – beispielsweise Messen, Internetauftritten oder anderen – das Logo des BMBF mit dem Zusatz „Gefördert vom“ gut sichtbar anzubringen. Das Logo sowie weitere Informationen zur Beachtung von Logos und Corporate Design des Zuwendungsgebers BMBF kann abgerufen werden unter der URL http://www.bmbf.de/bmbfservice/4607.php mit dem Benutzernamen: „zuwendungs-info“ und dem Passwort „bmbf2006“.
+
